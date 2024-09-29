@@ -1,0 +1,17 @@
+.project {
+    background-color: #f4f4f4;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.project h2 {
+    color: #4A4E69;
+}
+
+.project a {
+    text-decoration: none;
+    color: #C9ADA7;
+    font-weight: bold;
+}
